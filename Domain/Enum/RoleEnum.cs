@@ -10,6 +10,6 @@ namespace Domain.Enum
     {
         FamilyAdmin,
         FamilyMember,
-        SystemMember
+        SystemMember,
     }
 }
