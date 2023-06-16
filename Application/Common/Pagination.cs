@@ -35,4 +35,4 @@ namespace Application.Common
         public bool Previous => PageIndex > 0;
     }
 }
-}
+
